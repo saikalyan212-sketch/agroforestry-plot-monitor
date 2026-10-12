@@ -1,0 +1,7 @@
+geopandas>=0.14.0
+shapely>=2.0.0
+fiona>=1.9.0
+earthengine-api>=0.1.370
+pandas>=2.0.0
+openpyxl>=3.1.0
+matplotlib>=3.7.0
